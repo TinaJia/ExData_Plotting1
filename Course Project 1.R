@@ -1,5 +1,7 @@
 getwd()
 
+
+## Please set your own directory to work and download the data
 setwd("C:/Users/User/Dropbox/Data Science/Jonhs Hopkins Courses/R coding practice _Ying/Explotary data analysis")
 
 #################################################################################################
